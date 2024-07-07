@@ -11,12 +11,24 @@ With each second that passes, this script launches a relentless onslaught of req
 
 Kirymaru's server may tremble, and his logs will blush with success and failure counts meticulously colorized in the terminal 📊. Remember, it's all in good fun—just a friendly prank to keep Kirymaru on his toes! 😉
 
-****![Runtime Example](./example.gif)
+![Runtime Example](./example.gif)
 
-## Dependencies Installation:
+## Pre-Requisites:
 - Make sure you have Node.js and npm installed on your system.
 - Ensure you have access to an internet connection.
+
+Clone the repo
+```batch
+git clone https://github.com/albertolicea00/how-to-mess-with__Kirymaru.git
 ```
+
+Go to the repo
+```batch
+cd how-to-mess-with__Kirymaru
+```
+
+Instal dependencies
+```batch
 npm i
 ```
 
